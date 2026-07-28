@@ -10,10 +10,14 @@ Instead of treating the four DC motors as independent motors, they are arranged 
 
 The movement logic depends on controlling the motors based on their sides:
 
-Front 
-  M2   M1
-  M4   M3
+  Front 
+
+M2    M1
+  
+M4   M3
+  
   Back
+  
 Motor distribution:
 - Right side:
   - M1
