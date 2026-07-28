@@ -12,9 +12,9 @@ The movement logic depends on controlling the motors based on their sides:
 
    Front 
 
-M2  -----  M1
+M2        M1
   
-M4  -----  M3
+M4        M3
   
    Back
   
