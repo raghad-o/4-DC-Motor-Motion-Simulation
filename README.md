@@ -96,7 +96,7 @@ The simulation follows this sequence:
 
 ### Video Demonstration
 
-https://github.com/user-attachments/assets/a1a8e0f5-4381-4e50-bc7a-69096e5ec81c
+https://github.com/user-attachments/assets/6b9ef79d-8113-4739-86ea-2a243769488e
 
 ### Tinkercad Link
 
