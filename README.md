@@ -100,10 +100,4 @@ https://github.com/user-attachments/assets/b6f99689-d2e5-4a72-bb11-9206fda4028c
 
 ### Tinkercad Link
 
-[Open Tinkercad Simulation](https://www.tinkercad.com/things/gYw5IwY7rhT-4-dc-motor-simulation)
-
-
 https://www.tinkercad.com/things/gYw5IwY7rhT-4-dc-motor-simulation?sharecode=smyOfyoW49kAelKsMVVNcxwIX3H9gryZwVjXYnPfaZ4
-
-        
-    
