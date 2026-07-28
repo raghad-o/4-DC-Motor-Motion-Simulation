@@ -9,9 +9,9 @@ The project simulates the motion of a four-wheel vehicle-like platform. The moto
 Instead of treating the four DC motors as independent motors, they are arranged as a four-wheel system similar to a vehicle or mobile robot.
 
 The movement logic depends on controlling the motors based on their sides:
-  Front
-M2    M1
-M4    M3
+  Front 
+M2   M1
+M4   M3
   Back
 Motor distribution:
 - Right side:
