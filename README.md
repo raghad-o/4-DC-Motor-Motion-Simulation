@@ -86,13 +86,13 @@ The simulation follows this sequence:
 
 ## Simulation Demo
 
-### Video Demonstration
-
-
-
 ### Tinkercad Design
 
 ![Tinkercad Design](design_image.png)
+
+### Video Demonstration
+
+https://github.com/user-attachments/assets/a1a8e0f5-4381-4e50-bc7a-69096e5ec81c
 
 ### Tinkercad Link
 
