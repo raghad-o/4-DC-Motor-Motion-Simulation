@@ -13,7 +13,6 @@ The movement logic depends on controlling the motors based on their sides:
 M2    M1
 M4    M3
   Back
-
 Motor distribution:
 - Right side:
   - M1
