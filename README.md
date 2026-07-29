@@ -25,9 +25,10 @@ Motor distribution:
 - Left side:
   - M2
   - M4
+
 ## Motor Orientation Adjustment
 
-Since the DC motors are mounted on opposite sides of the four-wheel platform, their orientations differ. The wiring and motor orientation were adjusted to ensure that a single forward command produces consistent forward motion across all four wheels. As a result, the left and right motors rotate in opposite directions while producing the same forward movement of the platform.
+Since the DC motors are mounted on opposite sides of the four-wheel platform, their orientations differ. As a result, the left and right motors rotate in opposite directions while producing the same forward movement of the platform. This arrangement reflects the behavior of a typical four-wheel mobile platform and keeps the control logic simple.
 
 ## Components
 
